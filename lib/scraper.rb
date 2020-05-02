@@ -44,7 +44,7 @@ class Scraper
   end
 end
 
-Scraper.new.get_page
+Scraper.new.print_courses
 
 #course title "Web Development Immersive"
 #course schedule "Full-Time"
