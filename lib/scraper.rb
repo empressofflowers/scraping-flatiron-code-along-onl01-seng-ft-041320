@@ -34,3 +34,7 @@ class Scraper
 end
 
 Scraper.new.get_page
+
+#course title "Web Development Immersive"
+#course schedule "Full-Time"
+#course description ""An intensive, Ruby and Javascript course that teaches the skills necessary to start a career as a full-stack software"
