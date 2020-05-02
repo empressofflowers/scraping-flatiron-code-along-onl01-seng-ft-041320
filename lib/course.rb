@@ -10,7 +10,7 @@ class Course
   end
 
   def self.all
-    @@alls
+    @@all
   end
 
   def self.reset_all
